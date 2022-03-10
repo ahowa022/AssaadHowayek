@@ -1,0 +1,178 @@
+Python 3.7.0 (v3.7.0:1bf9cc5093, Jun 27 2018, 04:06:47) [MSC v.1914 32 bit (Intel)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> 
+ RESTART: C:\Users\assaa\Documents\Assignment 2 (ITI 1120)\a2_part2_300057716.py 
+>>> #Testing Question 2.1 min_enclosing_rectangle(radius,x,y)
+>>> 
+>>> min_enclosing_rectangle(1,1,1)
+(0, 0)
+>>> min_enclosing_rectangle(4.5,10,2)
+(5.5, -2.5)
+>>> min_enclosing_rectangle(-1,10,2)
+>>> min_enclosing_rectangle(500,1000,2000)
+(500, 1500)
+>>> min_enclosing_rectangle(2,-2,3)
+(-4, 1)
+>>> 
+>>> 
+>>> #Testing Question 2.2 series_sum()
+>>> 
+>>> series_sum()
+Please enter a non-negative integer: -10
+>>> series_sum()
+Please enter a non-negative integer: 0
+1000
+>>> series_sum()
+Please enter a non-negative integer: 2
+1001.25
+>>> series_sum()
+Please enter a non-negative integer: 1
+1001.0
+>>> series_sum()
+Please enter a non-negative integer: 5
+1001.463611111111
+>>> 
+>>> 
+>>> #Testing Question 2.3 pell(n)
+>>> 
+>>> pell(0)
+0
+>>> pell(2)
+2
+>>> pell(3)
+5
+>>> pell(-45)
+>>> pell(6)
+70
+>>> pell(8)
+408
+>>> 
+>>> 
+>>> #Testing Question 2.4 countMembers(s)
+>>> 
+>>> countMembers("\\")
+1
+>>> countMembers("2\'")
+1
+>>> countMembers("1\'")
+0
+>>> countMembers("2aAb3?eE'_13")
+4
+>>> countMembers("one, Two")
+3
+>>> countMembers("FXejj!!!,!")
+10
+
+>>> 
+>>> 
+>>> #Testing Question 2.5 casual_number(s)
+>>> 
+>>> casual_number("251")
+251
+>>> casual_number("1,aba,251")
+>>> casual_number("1251")
+1251
+>>> casual_number("1,251")
+1251
+>>> casual_number("-97,251")
+-97251
+>>> casual_number("-97251")
+-97251
+>>> casual_number("-,,,,")
+>>> casual_number("--97,251")
+>>> casual_number("-")
+>>> casual_number(",")
+>>> casual_number("-1,000,001")
+-1000001
+>>> casual_number("999,999,999,876")
+999999999876
+>>> casual_number("-2")
+-2
+>>> casual_number("2930392-29302920")
+>>> casual_number("-3929,303022;")
+>>> 
+>>> 
+>>> #Testing Question 2.6 alienNumbers(s)
+>>> 
+>>> alienNumbers("a!ya!U!NaU")
+1095
+>>> alienNumbers("aaaUUU")
+129
+>>> alienNumbers("")
+0
+>>> alienNumbers("UUUT")
+1027
+>>> 
+>>> 
+>>> #Testing Question 2.7 alienNumbersAgain(s)
+>>> 
+>>> alienNumbersAgain("a!ya!U!NaU")
+1095
+>>> alienNumbersAgain("aaaUUU")
+129
+>>> alienNumbersAgain("")
+0
+>>> 
+>>> 
+>>> #Testing Question 2.8 encrypt(s)
+>>> 
+>>> encrypt("Hello, world")
+'dHlerlolwo ,'
+>>> encrypt("1234")
+'4132'
+>>> encrypt("12345")
+'51423'
+>>> encrypt("1")
+'1'
+>>> encrypt("123")
+'312'
+>>> encrypt("12")
+'21'
+>>> encrypt("Secret Message")
+'eSgeacsrseetM '
+>>> encrypt(",'4'r")
+"r,''4"
+>>> 
+>>> 
+>>> #Testing Question 2.9 oPify(s)
+>>> 
+>>> oPify("aa")
+'aopa'
+>>> oPify("aB")
+'aoPB'
+>>> oPify("ooo")
+'oopoopo'
+>>> oPify("ax1")
+'aopx1'
+>>> oPify("abcdef22")
+'aopbopcopdopeopf22'
+>>> oPify("abcdef22x")
+'aopbopcopdopeopf22x'
+>>> oPify("aBCdef22x")
+'aoPBOPCOpdopeopf22x'
+>>> oPify("x")
+'x'
+>>> oPify("123456")
+'123456'
+>>> 
+>>> 
+>>> #Testing Question 2.10 nonrepetitive(s)
+>>> 
+>>> nonrepetitive("")
+True
+>>> nonrepetitive("a")
+True
+>>> nonrepetitive("zrtzghtghtghtq")
+False
+>>> nonrepetitive("abcab")
+True
+>>> nonrepetitive("12341341")
+False
+>>> nonrepetitive("44")
+False
+>>> 
+>>> nonrepetitive("abcde123abcde123")
+False
+>>> nonrepetitive("wxusjiwsod")
+True
+>>> 

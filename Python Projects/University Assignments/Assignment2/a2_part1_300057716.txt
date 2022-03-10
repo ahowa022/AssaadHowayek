@@ -1,0 +1,202 @@
+Python 3.7.0 (v3.7.0:1bf9cc5093, Jun 27 2018, 04:06:47) [MSC v.1914 32 bit (Intel)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> 
+ RESTART: C:\Users\assaa\Documents\Assignment 2 (ITI 1120)\a2_part1_300057716.py 
+What is ur name?    Assaad Howayek    
+************************************************************
+*                                                          *
+* _Assaad Howayek, welcome to my increasing-split tester._ *
+*                                                          *
+************************************************************
+Assaad Howayek, would you like to test if a number admits an increasing-split of give size? sure
+Please enter yes or no. Try again.
+Assaad Howayek, would you like to test if a number admits an increasing-split of give size? sure
+Please enter yes or no. Try again.
+Assaad Howayek, would you like to test if a number admits an increasing-split of give size? yEs
+Good choice!!
+Enter a positive integer: 123156
+Input the split. The split has to divide the length of 123156 i.e. 6
+4
+4 does not divide 6. Try again!
+Assaad Howayek, would you like to test if a number admits an increasing-split of give size? YES
+Good choice!!
+Enter a positive integer:       123156
+Input the split. The split has to divide the length of 123156 i.e. 6
+   3
+123, 156
+The sequence is increasing
+Assaad Howayek, would you like to test if a number admits an increasing-split of give size? yes
+Good choice!!
+Enter a positive integer: 3.4
+The input can only contain digits. Try again.
+Assaad Howayek, would you like to test if a number admits an increasing-split of give size? yes
+Good choice!!
+Enter a positive integer:     -44
+The input has to be a positive integer. Try again.
+Assaad Howayek, would you like to test if a number admits an increasing-split of give size? yes
+Good choice!!
+Enter a positive integer: 3331
+Input the split. The split has to divide the length of 3331 i.e. 4
+2
+33, 31
+The sqeuence is not increasing
+Assaad Howayek, would you like to test if a number admits an increasing-split of give size? yes
+Good choice!!
+Enter a positive integer: twenty
+The input can only contain digits. Try again.
+Assaad Howayek, would you like to test if a number admits an increasing-split of give size? yes
+Good choice!!
+Enter a positive integer: 4321
+Input the split. The split has to divide the length of 4321 i.e. 4
+           1          
+4, 3, 2, 1
+The sqeuence is not increasing
+Assaad Howayek, would you like to test if a number admits an increasing-split of give size? yes
+Good choice!!
+Enter a positive integer:          4321
+Input the split. The split has to divide the length of 4321 i.e. 4
+4
+4321
+The sequence is increasing
+Assaad Howayek, would you like to test if a number admits an increasing-split of give size?   yes
+Good choice!!
+Enter a positive integer: -2.5
+The input can only contain digits. Try again.
+Assaad Howayek, would you like to test if a number admits an increasing-split of give size?  0
+Please enter yes or no. Try again.
+Assaad Howayek, would you like to test if a number admits an increasing-split of give size? YES
+Good choice!!
+Enter a positive integer: 0
+The input has to be a positive integer. Try again.
+Assaad Howayek, would you like to test if a number admits an increasing-split of give size? yes
+Good choice!!
+Enter a positive integer: 77
+Input the split. The split has to divide the length of 77 i.e. 2
+2
+77
+The sequence is increasing
+Assaad Howayek, would you like to test if a number admits an increasing-split of give size? 345
+Please enter yes or no. Try again.
+Assaad Howayek, would you like to test if a number admits an increasing-split of give size? yes
+Good choice!!
+Enter a positive integer: 345
+Input the split. The split has to divide the length of 345 i.e. 3
+4
+4 does not divide 3. Try again!
+Assaad Howayek, would you like to test if a number admits an increasing-split of give size? 345
+Please enter yes or no. Try again.
+Assaad Howayek, would you like to test if a number admits an increasing-split of give size? yes
+Good choice!!
+Enter a positive integer: 345
+Input the split. The split has to divide the length of 345 i.e. 3
+10
+10 does not divide 3. Try again!
+Assaad Howayek, would you like to test if a number admits an increasing-split of give size? yes
+Good choice!!
+Enter a positive integer: 213411
+Input the split. The split has to divide the length of 213411 i.e. 6
+2
+21, 34, 11
+The sqeuence is not increasing
+Assaad Howayek, would you like to test if a number admits an increasing-split of give size? yes
+Good choice!!
+Enter a positive integer: 213411800
+Input the split. The split has to divide the length of 213411800 i.e. 9
+    5
+5 does not divide 9. Try again!
+Assaad Howayek, would you like to test if a number admits an increasing-split of give size? yes
+Good choice!!
+Enter a positive integer:   213411800
+Input the split. The split has to divide the length of 213411800 i.e. 9
+3
+213, 411, 800
+The sequence is increasing
+Assaad Howayek, would you like to test if a number admits an increasing-split of give size? yes
+Good choice!!
+Enter a positive integer: 001230
+Input the split. The split has to divide the length of 001230 i.e. 6
+3
+001, 230
+The sequence is increasing
+Assaad Howayek, would you like to test if a number admits an increasing-split of give size? uf
+Please enter yes or no. Try again.
+Assaad Howayek, would you like to test if a number admits an increasing-split of give size? ...
+Please enter yes or no. Try again.
+Assaad Howayek, would you like to test if a number admits an increasing-split of give size? yes
+Good choice!!
+Enter a positive integer: 0293-293940
+The input can only contain digits. Try again.
+Assaad Howayek, would you like to test if a number admits an increasing-split of give size? yes
+Good choice!!
+Enter a positive integer: -3949-394393
+The input can only contain digits. Try again.
+Assaad Howayek, would you like to test if a number admits an increasing-split of give size? yes
+Good choice!!
+Enter a positive integer: 39309
+Input the split. The split has to divide the length of 39309 i.e. 5
+-20
+The divider has to be a positive integer. Try again!
+Assaad Howayek, would you like to test if a number admits an increasing-split of give size? yes
+Good choice!!
+Enter a positive integer: 37837
+Input the split. The split has to divide the length of 37837 i.e. 5
+-03949-2394
+The divider can only contain digits. Try again.
+Assaad Howayek, would you like to test if a number admits an increasing-split of give size? yes
+Good choice!!
+Enter a positive integer: 38484
+Input the split. The split has to divide the length of 38484 i.e. 5
+eprir
+The divider can only contain digits. Try again.
+Assaad Howayek, would you like to test if a number admits an increasing-split of give size? yes
+Good choice!!
+Enter a positive integer: 
+There must be something entered that something being a positive integer. Try again.
+Assaad Howayek, would you like to test if a number admits an increasing-split of give size? yes
+Good choice!!
+Enter a positive integer: 3773
+Input the split. The split has to divide the length of 3773 i.e. 4
+yes
+The divider can only contain digits. Try again.
+Assaad Howayek, would you like to test if a number admits an increasing-split of give size? yes
+Good choice!!
+Enter a positive integer: 38494
+Input the split. The split has to divide the length of 38494 i.e. 5
+
+There must be something entered that something being a positive integer for a divider. Try again.
+Assaad Howayek, would you like to test if a number admits an increasing-split of give size? no
+
+*****************************
+*                           *
+* _Good bye Assaad Howayek_ *
+*                           *
+*****************************
+>>> 
+ RESTART: C:\Users\assaa\Documents\Assignment 2 (ITI 1120)\a2_part1_300057716.py 
+What is ur name? 
+Traceback (most recent call last):
+  File "C:\Users\assaa\Documents\Assignment 2 (ITI 1120)\a2_part1_300057716.py", line 58, in <module>
+    name= input("What is ur name? ").strip()
+KeyboardInterrupt
+>>> split_tester("12311234","2")
+12, 31, 12, 34
+False
+>>> split_tester("12311234","4")
+1231, 1234
+True
+>>> split_tester("0012311234","2")
+00, 12, 31, 12, 34
+False
+>>> split_tester("0012311234","5")
+00123, 11234
+True
+>>> split_tester("1","1")
+1
+True
+>>> split_tester("734","1")
+7, 3, 4
+False
+>>> split_tester("734","3")
+734
+True
+>>> 

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.seg2505_project">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".BookingListAdapter"></activity>
+        <activity android:name=".ViewBookings" />
+        <activity android:name=".BookAppointment" />
+        <activity android:name=".MainPatientActivity" />
+        <activity android:name=".ClinicsImplementingAddress" />
+        <activity android:name=".ClinicsImplementingTime" />
+        <activity android:name=".SpinnerAdapter" />
+        <activity android:name=".ClinicsImplementingService" />
+        <activity android:name=".RatingListAdapter" />
+        <activity android:name=".MainClinicActivity" />
+        <activity android:name=".WorkingHoursActivity" />
+        <activity android:name=".RegisterServiceToClinicActivity" />
+        <activity android:name=".ServicesAssociatedToClinicActivity" />
+        <activity android:name=".ClinicCompleteProfileActivity" />
+        <activity android:name=".UserListAdapter" />
+        <activity android:name=".RateClinic">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".RegistrationClinicActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".ServiceListAdapter">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".DisplayServicesActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".SearchClinic">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".DisplayUsersActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".MainAdminActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".LoginActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".RegistrationPatientActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

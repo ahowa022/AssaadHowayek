@@ -17,7 +17,7 @@ public class StudentInfo {
 
         System.out.println("************************************************************");
         System.out.println("*             Assaad Howayek, 300057716, iti1521-A         *");
-        System.out.println("*             Amin Saber, 300059636, iti1521-A             *");
+        System.out.println("*                                                          *");
         System.out.println("*                                                          *");
         System.out.println("*                                                          *");
         System.out.println("************************************************************");

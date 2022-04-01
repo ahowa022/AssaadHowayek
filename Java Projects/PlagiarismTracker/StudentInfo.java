@@ -16,8 +16,8 @@ public class StudentInfo {
     public static void display() {
 
         System.out.println("************************************************************");
-        System.out.println("*               Amin Saber 300059636                       *");
-        System.out.println("*               Assaad Howayek 300057716                   *");
+        System.out.println("*                                                          *");
+        System.out.println("*                                                          *");
         System.out.println("*                                                          *");
         System.out.println("*                                                          *");
         System.out.println("************************************************************");
